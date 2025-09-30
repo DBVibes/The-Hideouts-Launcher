@@ -1,8 +1,37 @@
 # The-Hideouts-Launcher
 This is a launcher for my mc server
+The core of this mod is the Proximity Voice chat, and the nestolgia. From Modern to past to mystical to fantasy to blowing shit up this is my modded survival MC server/Launcher start with a heavy set of items because the creatures are lurking, from aliens to ghostly creepers to the witherstorm from story mode, this mod has it all over 500+ mods carefully optimised and Improved fight your way through the world make friends, build teams, conquer land and build your dream with over 2 million new recipes and over 200 dimensions or even create your own dimension!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If you are new and found this by some off chance join the server! https://discord.gg/dNJBf5V2fY
 <img width="748" height="450" alt="Relleasee" src="https://github.com/user-attachments/assets/adf2dcf8-9d0a-4c82-9ae4-a59f5e12a16e" />
 <img width="1918" height="1046" alt="releaseure" src="https://github.com/user-attachments/assets/8b8e74c8-8dd7-47fe-8ffa-75391e1621a9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
